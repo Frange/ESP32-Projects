@@ -121,7 +121,7 @@ unsigned int cycles = 10;
 
 //const char* ssid = "ESP32-Access-Point";
 const char* ssid = "ESP32-Master";
-const char* password = "Frg41013R"; //Password must have 9 characters.
+const char* password = "testtest1"; //Password must have 9 characters.
 
 //Variables
 bool sendCmd = false;
